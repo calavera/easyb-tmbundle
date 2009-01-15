@@ -12,3 +12,8 @@ To install via Git:
 		git clone git://github.com/calavera/easyb-tmbundle.git "Easyb.tmbundle"
 
 Source can be viewed or forked via GitHub: [http://github.com/calavera/easyb-tmbundle/tree/master](http://github.com/calavera/easyb-tmbundle/tree/master)
+
+Author
+======
+
+David Calavera, calavera@apache.org, http://thinkincode.net
