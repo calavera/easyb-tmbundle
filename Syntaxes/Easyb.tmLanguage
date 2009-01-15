@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>story</string>
+		<string>groovy</string>
+	</array>
+	<key>foldingStartMarker</key>
+	<string>/\*\*|\{\s*$</string>
+	<key>foldingStopMarker</key>
+	<string>\*\*/|^\s*\}</string>
+	<key>keyEquivalent</key>
+	<string>^~G</string>
+	<key>name</key>
+	<string>Easyb</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.groovy</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.easyb</string>
+	<key>uuid</key>
+	<string>F6F25999-8E95-432E-934E-63F75F721736</string>
+</dict>
+</plist>

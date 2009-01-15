@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>isEqualTo&lt;${1:value}&gt;</string>
+	<key>name</key>
+	<string>isEqualTo</string>
+	<key>scope</key>
+	<string>source.easyb</string>
+	<key>tabTrigger</key>
+	<string>iet</string>
+	<key>uuid</key>
+	<string>A9B9207E-19CD-4C2C-BFD4-461A2F1549BC</string>
+</dict>
+</plist>
