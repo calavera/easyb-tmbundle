@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>isEqualTo ${1:value}</string>
+	<string>before "$1", {
+	$0
+}
+</string>
 	<key>name</key>
-	<string>isEqualTo</string>
-	<key>scope</key>
-	<string>source.easyb</string>
-	<key>tabTrigger</key>
-	<string>iet</string>
+	<string>before</string>
 	<key>uuid</key>
-	<string>A9B9207E-19CD-4C2C-BFD4-461A2F1549BC</string>
+	<string>66E18590-AC88-4E1A-A673-E0ED056A6474</string>
 </dict>
 </plist>

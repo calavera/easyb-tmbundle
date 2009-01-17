@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>isNotEqualTo&lt;${1:value}&gt;</string>
+	<string>isNotEqualTo ${1:value}</string>
 	<key>name</key>
 	<string>isNotEqualTo</string>
 	<key>scope</key>
