@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>story</string>
+		<string>specification</string>
 		<string>groovy</string>
 	</array>
 	<key>foldingStartMarker</key>
