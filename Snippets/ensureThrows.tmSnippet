@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ensureThrows(${1:class}), {
+	$0
+}
+</string>
+	<key>name</key>
+	<string>ensureThrows</string>
+	<key>scope</key>
+	<string>source.easyb</string>
+	<key>tabTrigger</key>
+	<string>enst</string>
+	<key>uuid</key>
+	<string>CFDCA1B9-64CA-4C33-91AA-B39B18F2DF52</string>
+</dict>
+</plist>
