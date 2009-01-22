@@ -16,7 +16,7 @@ Source can be viewed or forked via GitHub: [http://github.com/calavera/easyb-tmb
 Getting started
 ===============
 
-The bundle uses the Easyb command line by default to run the stories and behaviours. You may add an static varible to TextMate called 'TM_EASYB' with the absolute path to the Easyb directory (Preferences → Advanced → Shell Variables).
+The bundle uses the Easyb command line by default to run the stories and behaviours. You may add an static varible to TextMate called 'TM\_EASYB' with the absolute path to the Easyb directory (Preferences → Advanced → Shell Variables).
 
 Author
 ======
