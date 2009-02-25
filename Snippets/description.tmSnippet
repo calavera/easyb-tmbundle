@@ -3,17 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>after_each {
+	<string>description "$1", {
 	$0
-}
-</string>
+}</string>
 	<key>name</key>
-	<string>after_each</string>
+	<string>description</string>
 	<key>scope</key>
 	<string>source.easyb</string>
 	<key>tabTrigger</key>
-	<string>afte</string>
+	<string>desc</string>
 	<key>uuid</key>
-	<string>EF123D30-DA3D-4744-B17F-ECFC6D550B28</string>
+	<string>415160A0-8E12-4583-9FB2-8758D45D9F1D</string>
 </dict>
 </plist>

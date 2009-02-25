@@ -8,6 +8,10 @@
 }</string>
 	<key>name</key>
 	<string>it</string>
+	<key>scope</key>
+	<string>source.easyb</string>
+	<key>tabTrigger</key>
+	<string>it</string>
 	<key>uuid</key>
 	<string>EE545694-660D-4FF6-948F-FCFAE1D738D1</string>
 </dict>

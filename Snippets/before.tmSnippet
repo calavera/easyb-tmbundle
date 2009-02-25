@@ -9,6 +9,10 @@
 </string>
 	<key>name</key>
 	<string>before</string>
+	<key>scope</key>
+	<string>source.easyb</string>
+	<key>tabTrigger</key>
+	<string>bef</string>
 	<key>uuid</key>
 	<string>66E18590-AC88-4E1A-A673-E0ED056A6474</string>
 </dict>
