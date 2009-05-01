@@ -4,7 +4,7 @@ class EasybScript < UserScript
   def lang; 'Easyb' end
   def executable; 'java' end
   def args
-    ['-cp', Dir["#{ENV['EASYB_HOME'] || ENV['TM_EASYB']}/*.jar"].join(":"), 'org.disco.easyb.BehaviorRunner']
+    ['-cp', Dir["#{ENV['EASYB_HOME'] || ENV['TM_EASYB']}/*.jar"].join(":"), 'org.easyb.BehaviorRunner']
   end
 end
 
